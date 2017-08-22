@@ -9,7 +9,7 @@ var obj = null,
     fin2 = [],
     fin3 = [],
     fin4 = {},
-    fin5 = []
+    fin5 = [], fin6 = []
 var asia = ["Afghanistan", "Armenia", "Azerbaijan", "Bahrain", "Bangladesh", "Bhutan", "Brunei Darussalam",
     "Cambodia", "China", "Cyprus", "Georgia", "India", "Indonesia", "Iraq", "Israel", "Japan", "Jordan", "Kazakhstan",
     "Kuwait", "Kyrgyz Republic", "Lao PDR", "Lebanon", "Malaysia", "Maldives", "Mongolia", "Myanmar", "Nepal", "Oman",
@@ -68,7 +68,16 @@ rl.on('line', (line) => {
 })
 
 rl.on('close', () => {
-    wr.write(JSON.stringify(fin, null, 2), 'UTF8')
+	for(let i=0;i<fin.length;i+=2)
+	{
+		obj = {
+			year: fin[i].year,
+			rural: fin[i].value,
+			urban: fin[i+1].value
+		}
+		fin6.push(obj)
+	}
+    wr.write(JSON.stringify(fin6, null, 2), 'UTF8')
     wr2.write(JSON.stringify(fin2, null, 2), 'UTF8')
     var sum = []
     for (let i = 0; i < fin3.length / 2; i++) {
@@ -77,7 +86,6 @@ rl.on('close', () => {
             country: fin3[i * 2].country,
             year: fin3[i * 2].year,
             sum: parseFloat(fin3[i * 2].value) + parseFloat(fin3[i * 2 + 1].value)
-
         }
         fin5.push(fin4[i])
     }
