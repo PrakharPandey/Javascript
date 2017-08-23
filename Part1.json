@@ -1,662 +1,277 @@
 [
   {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1960",
-    "value": "82.076"
+    "rural": "82.076",
+    "urban": "17.924"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1960",
-    "value": "17.924"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1961",
-    "value": "81.968"
+    "rural": "81.968",
+    "urban": "18.032"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1961",
-    "value": "18.032"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1962",
-    "value": "81.782"
+    "rural": "81.782",
+    "urban": "18.218"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1962",
-    "value": "18.218"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1963",
-    "value": "81.595"
+    "rural": "81.595",
+    "urban": "18.405"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1963",
-    "value": "18.405"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1964",
-    "value": "81.405"
+    "rural": "81.405",
+    "urban": "18.595"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1964",
-    "value": "18.595"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1965",
-    "value": "81.215"
+    "rural": "81.215",
+    "urban": "18.785"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1965",
-    "value": "18.785"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1966",
-    "value": "81.023"
+    "rural": "81.023",
+    "urban": "18.977"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1966",
-    "value": "18.977"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1967",
-    "value": "80.829"
+    "rural": "80.829",
+    "urban": "19.171"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1967",
-    "value": "19.171"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1968",
-    "value": "80.634"
+    "rural": "80.634",
+    "urban": "19.366"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1968",
-    "value": "19.366"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1969",
-    "value": "80.438"
+    "rural": "80.438",
+    "urban": "19.562"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1969",
-    "value": "19.562"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1970",
-    "value": "80.24"
+    "rural": "80.24",
+    "urban": "19.76"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1970",
-    "value": "19.76"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1971",
-    "value": "80.009"
+    "rural": "80.009",
+    "urban": "19.991"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1971",
-    "value": "19.991"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1972",
-    "value": "79.679"
+    "rural": "79.679",
+    "urban": "20.321"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1972",
-    "value": "20.321"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1973",
-    "value": "79.347"
+    "rural": "79.347",
+    "urban": "20.653"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1973",
-    "value": "20.653"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1974",
-    "value": "79.009"
+    "rural": "79.009",
+    "urban": "20.991"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1974",
-    "value": "20.991"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1975",
-    "value": "78.668"
+    "rural": "78.668",
+    "urban": "21.332"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1975",
-    "value": "21.332"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1976",
-    "value": "78.323"
+    "rural": "78.323",
+    "urban": "21.677"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1976",
-    "value": "21.677"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1977",
-    "value": "77.974"
+    "rural": "77.974",
+    "urban": "22.026"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1977",
-    "value": "22.026"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1978",
-    "value": "77.621"
+    "rural": "77.621",
+    "urban": "22.379"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1978",
-    "value": "22.379"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1979",
-    "value": "77.264"
+    "rural": "77.264",
+    "urban": "22.736"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1979",
-    "value": "22.736"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1980",
-    "value": "76.902"
+    "rural": "76.902",
+    "urban": "23.098"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1980",
-    "value": "23.098"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1981",
-    "value": "76.583"
+    "rural": "76.583",
+    "urban": "23.417"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1981",
-    "value": "23.417"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1982",
-    "value": "76.353"
+    "rural": "76.353",
+    "urban": "23.647"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1982",
-    "value": "23.647"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1983",
-    "value": "76.121"
+    "rural": "76.121",
+    "urban": "23.879"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1983",
-    "value": "23.879"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1984",
-    "value": "75.887"
+    "rural": "75.887",
+    "urban": "24.113"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1984",
-    "value": "24.113"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1985",
-    "value": "75.652"
+    "rural": "75.652",
+    "urban": "24.348"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1985",
-    "value": "24.348"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1986",
-    "value": "75.415"
+    "rural": "75.415",
+    "urban": "24.585"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1986",
-    "value": "24.585"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1987",
-    "value": "75.177"
+    "rural": "75.177",
+    "urban": "24.823"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1987",
-    "value": "24.823"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1988",
-    "value": "74.937"
+    "rural": "74.937",
+    "urban": "25.063"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1988",
-    "value": "25.063"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1989",
-    "value": "74.695"
+    "rural": "74.695",
+    "urban": "25.305"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1989",
-    "value": "25.305"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1990",
-    "value": "74.453"
+    "rural": "74.453",
+    "urban": "25.547"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1990",
-    "value": "25.547"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1991",
-    "value": "74.222"
+    "rural": "74.222",
+    "urban": "25.778"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1991",
-    "value": "25.778"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1992",
-    "value": "74.016"
+    "rural": "74.016",
+    "urban": "25.984"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1992",
-    "value": "25.984"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1993",
-    "value": "73.809"
+    "rural": "73.809",
+    "urban": "26.191"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1993",
-    "value": "26.191"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1994",
-    "value": "73.601"
+    "rural": "73.601",
+    "urban": "26.399"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1994",
-    "value": "26.399"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1995",
-    "value": "73.393"
+    "rural": "73.393",
+    "urban": "26.607"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1995",
-    "value": "26.607"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1996",
-    "value": "73.183"
+    "rural": "73.183",
+    "urban": "26.817"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1996",
-    "value": "26.817"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1997",
-    "value": "72.972"
+    "rural": "72.972",
+    "urban": "27.028"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1997",
-    "value": "27.028"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1998",
-    "value": "72.76"
+    "rural": "72.76",
+    "urban": "27.24"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1998",
-    "value": "27.24"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "1999",
-    "value": "72.547"
+    "rural": "72.547",
+    "urban": "27.453"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "1999",
-    "value": "27.453"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2000",
-    "value": "72.333"
+    "rural": "72.333",
+    "urban": "27.667"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2000",
-    "value": "27.667"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2001",
-    "value": "72.082"
+    "rural": "72.082",
+    "urban": "27.918"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2001",
-    "value": "27.918"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2002",
-    "value": "71.756"
+    "rural": "71.756",
+    "urban": "28.244"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2002",
-    "value": "28.244"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2003",
-    "value": "71.428"
+    "rural": "71.428",
+    "urban": "28.572"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2003",
-    "value": "28.572"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2004",
-    "value": "71.097"
+    "rural": "71.097",
+    "urban": "28.903"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2004",
-    "value": "28.903"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2005",
-    "value": "70.765"
+    "rural": "70.765",
+    "urban": "29.235"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2005",
-    "value": "29.235"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2006",
-    "value": "70.431"
+    "rural": "70.431",
+    "urban": "29.569"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2006",
-    "value": "29.569"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2007",
-    "value": "70.094"
+    "rural": "70.094",
+    "urban": "29.906"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2007",
-    "value": "29.906"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2008",
-    "value": "69.754"
+    "rural": "69.754",
+    "urban": "30.246"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2008",
-    "value": "30.246"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2009",
-    "value": "69.413"
+    "rural": "69.413",
+    "urban": "30.587"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2009",
-    "value": "30.587"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2010",
-    "value": "69.07"
+    "rural": "69.07",
+    "urban": "30.93"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2010",
-    "value": "30.93"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2011",
-    "value": "68.724"
+    "rural": "68.724",
+    "urban": "31.276"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2011",
-    "value": "31.276"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2012",
-    "value": "68.369"
+    "rural": "68.369",
+    "urban": "31.631"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2012",
-    "value": "31.631"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2013",
-    "value": "68.006"
+    "rural": "68.006",
+    "urban": "31.994"
   },
   {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2013",
-    "value": "31.994"
-  },
-  {
-    "country": "India",
-    "pop": "Rural population (% of total population)",
     "year": "2014",
-    "value": "67.634"
-  },
-  {
-    "country": "India",
-    "pop": "Urban population (% of total)",
-    "year": "2014",
-    "value": "32.366"
+    "rural": "67.634",
+    "urban": "32.366"
   }
 ]
