@@ -1,5 +1,5 @@
 const readline = require('readline');
-const fs = require('fs'), wr = fs.createWriteStream('Part1.json'), wr2 = fs.createWriteStream('Part2.json'), wr3 = fs.createWriteStream('Part3.json')
+const fs = require('fs'), wr = fs.createWriteStream('json/Part1.json'), wr2 = fs.createWriteStream('json/Part2.json'), wr3 = fs.createWriteStream('json/Part3.json')
 var obj = null, a, fin = [], fin2 = [], fin3 = [], fin4 = {}, fin5 = [], fin6 = [], fin7 = []
 var asia = ["Afghanistan", "Armenia", "Azerbaijan", "Bahrain", "Bangladesh", "Bhutan", "Brunei Darussalam"," Cambodia", "China", "Cyprus", "Georgia", "India", "Indonesia", "Iraq", "Israel", "Japan", "Jordan", "Kazakhstan", "Kuwait", "Kyrgyz Republic", "Lao PDR", "Lebanon", "Malaysia",
  "Maldives", "Mongolia", "Myanmar", "Nepal", "Oman", "Pakistan", "Philippines", "Qatar", "Russian Federation", "Saudi Arabia", "Singapore", "Sri Lanka", "Syrian Arab Republic", "Tajikistan", "Thailand", "Timor-Leste", "Turkey", "Turkmenistan", "United Arab Emirates", "Uzbekistan", "Vietnam"]
