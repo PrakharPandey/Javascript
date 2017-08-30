@@ -1,0 +1,22 @@
+body {
+  font: 10px sans-serif;
+}
+.axis text {
+  font: 10px sans-serif;
+}
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #333;
+  shape-rendering: crispEdges;
+}
+.axis--x path {
+  display: none;
+}
+
+.area {
+  fill: green;
+}
+svg {
+  background-color: lightgrey;
+}

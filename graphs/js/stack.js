@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-body {
-  font: 10px sans-serif;
-}
-.axis text {
-  font: 10px sans-serif;
-}
-.axis line,
-.axis path {
-  fill: none;
-  stroke: #333;
-  shape-rendering: crispEdges;
-}
-.axis--x path {
-  display: none;
-}
-.path-line {
-  fill: none;
-  stroke: yellow;
-  stroke-width: 1.5px;
-}
-svg {
-  background: lightgrey;
-}
-</style>
-<body>
-<h1>Stacked Bar Chart - Asian Counties v/s Rural+Urban Population</h1>
-<div id='stacked-bar'></div>
-<script src="//d3js.org/d3.v4.min.js"></script>
-<script>
 var initStackedBarChart = {
 	draw: function(config) {
 		me = this,
@@ -90,7 +58,7 @@ yScale.domain([0, d3.max(data, function (d) { return d.v > 60000000000 ? d.v : 6
 
 var key = ["rural", "urban"];
 
-var data = d3.json("Part3.json", function(error, dat) {
+var data = d3.json("../../json/Part3.json", function(error, dat) {
 
 data = dat;
 
@@ -100,4 +68,3 @@ initStackedBarChart.draw({
 	element: 'stacked-bar'
 })
 })
-</script>

@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<style>
-body {
-  font: 10px sans-serif;
-}
-.axis text {
-  font: 10px sans-serif;
-}
-.axis line,
-.axis path {
-  fill: none;
-  stroke: #333;
-  shape-rendering: crispEdges;
-}
-.axis--x path {
-  display: none;
-}
-
-.area {
-  fill: green;
-}
-svg {
-  background-color: lightgrey;
-}
-</style>
-</head>
-<body>
-<h1>Area Chart - Year v/s Urban Population%</h1>
-<script src="http://d3js.org/d3.v3.js"></script>
-<script>
-var data = d3.json('../json/Part2.json', function(d){
-  data=d;
-})
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 1515 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
@@ -89,11 +53,8 @@ data.forEach(function(d) {
       .style("text-anchor", "end")
       .text("values");
 }
-      d3.json("Part2.json", function(error, data) {
+      d3.json("../../json/Part2.json", function(error, data) {
 if (error) throw error;
 // trigger render
 draw(data)
 })
-</script>
-</body>
-</html>

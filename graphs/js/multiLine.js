@@ -1,55 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style> /* set the CSS */
-body {
-  font: 10px sans-serif;
-}
-.line {
-fill: none;
-stroke: steelblue;
-stroke-width: 2px;
-
-}
-
-.line1 {
-fill: none;
-stroke: orange;
-stroke-width: 2px;
-
-}
-
-.line:hover {
-  stroke: yellow;
-  stroke-width: 3px;
- 
-}
-
-.line1:hover {
-  stroke:   #00FA9A;
-  stroke-width: 3px;
- 
-}
-.axis text {
-  font: 10px sans-serif;
-}
-.axis line,
-.axis path {
-  fill: none;
-  stroke: orange;
-  shape-rendering: crispEdges;
-}
-.axis--x path {
-  display: none;
-}
-svg {
-  background-color: lightgrey;
-}
-</style>
-<body>
-<h1>Multi Line Chart - Rural v/s Urban Population</h1>
-<!-- load the d3.js library -->    
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
 // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
  width = 1515 - margin.left - margin.right,
@@ -112,10 +60,8 @@ svg.append("g")
    .call(d3.axisLeft(y));
  }
 // Get the data
-d3.json("Part1.json", function(error, data) {
+d3.json("../../json/Part1.json", function(error, data) {
 if (error) throw error;
 // trigger render
 draw(data);
 });
-</script>
-</body>

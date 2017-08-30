@@ -1,0 +1,43 @@
+body {
+  font: 10px sans-serif;
+}
+.line {
+fill: none;
+stroke: steelblue;
+stroke-width: 2px;
+
+}
+
+.line1 {
+fill: none;
+stroke: orange;
+stroke-width: 2px;
+
+}
+
+.line:hover {
+  stroke: yellow;
+  stroke-width: 3px;
+ 
+}
+
+.line1:hover {
+  stroke:   #00FA9A;
+  stroke-width: 3px;
+ 
+}
+.axis text {
+  font: 10px sans-serif;
+}
+.axis line,
+.axis path {
+  fill: none;
+  stroke: orange;
+  shape-rendering: crispEdges;
+}
+.axis--x path {
+  display: none;
+}
+svg {
+  background-color: lightgrey;
+}
